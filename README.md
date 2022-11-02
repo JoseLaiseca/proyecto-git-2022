@@ -1,4 +1,4 @@
-#Proyecto  GIT EIT
+##Proyecto  GIT EIT
 
 Este proyecto fue creado en el curso de GIT (Repaso 2022)
 
